@@ -1,4 +1,4 @@
-name: CI - Sistema de Avaliação
+name: CI - Sistema de Avaliação Escolar
 on:
   push:
     branches: [ main ]
